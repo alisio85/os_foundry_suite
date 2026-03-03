@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"constant":["BOOT_CATEGORY","SERVICE_CATEGORY"]};

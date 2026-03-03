@@ -1,2 +1,0 @@
-createSrcSidebar('[["os_foundry_suite",["",[],["artifacts.rs","builder.rs","config.rs","error.rs","execution.rs","image.rs","integration.rs","lib.rs","prelude.rs","profiles.rs","services.rs","targets.rs"]]],["os_foundry_suite",["",[],["builder.rs","config.rs","error.rs","integration.rs","lib.rs","prelude.rs","profiles.rs","targets.rs"]]],["os_foundry_suite",["",[],["builder.rs","config.rs","error.rs","lib.rs","prelude.rs","targets.rs"]]]]');
-//{"start":19,"fragment_lengths":[187,133,102]}
