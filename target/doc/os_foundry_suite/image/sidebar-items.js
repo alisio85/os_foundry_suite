@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["BootArtifact","PartitionScheme"],"fn":["plan_image"],"struct":["ImageLayoutIntent","ImagePlan","PartitionSpec"]};

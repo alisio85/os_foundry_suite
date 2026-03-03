@@ -1,0 +1,11 @@
+C:\Users\aless\CascadeProjects\os-foundry-suite\target\debug\deps\os_image_lens-66fb3984c2fc876b.d: C:\Users\aless\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\os_image_lens-0.1.0\src\lib.rs C:\Users\aless\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\os_image_lens-0.1.0\src\elf.rs C:\Users\aless\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\os_image_lens-0.1.0\src\error.rs C:\Users\aless\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\os_image_lens-0.1.0\src\load.rs C:\Users\aless\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\os_image_lens-0.1.0\src\util.rs
+
+C:\Users\aless\CascadeProjects\os-foundry-suite\target\debug\deps\libos_image_lens-66fb3984c2fc876b.rlib: C:\Users\aless\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\os_image_lens-0.1.0\src\lib.rs C:\Users\aless\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\os_image_lens-0.1.0\src\elf.rs C:\Users\aless\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\os_image_lens-0.1.0\src\error.rs C:\Users\aless\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\os_image_lens-0.1.0\src\load.rs C:\Users\aless\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\os_image_lens-0.1.0\src\util.rs
+
+C:\Users\aless\CascadeProjects\os-foundry-suite\target\debug\deps\libos_image_lens-66fb3984c2fc876b.rmeta: C:\Users\aless\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\os_image_lens-0.1.0\src\lib.rs C:\Users\aless\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\os_image_lens-0.1.0\src\elf.rs C:\Users\aless\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\os_image_lens-0.1.0\src\error.rs C:\Users\aless\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\os_image_lens-0.1.0\src\load.rs C:\Users\aless\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\os_image_lens-0.1.0\src\util.rs
+
+C:\Users\aless\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\os_image_lens-0.1.0\src\lib.rs:
+C:\Users\aless\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\os_image_lens-0.1.0\src\elf.rs:
+C:\Users\aless\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\os_image_lens-0.1.0\src\error.rs:
+C:\Users\aless\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\os_image_lens-0.1.0\src\load.rs:
+C:\Users\aless\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\os_image_lens-0.1.0\src\util.rs:

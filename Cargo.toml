@@ -1,0 +1,47 @@
+[package]
+name = "os_foundry_suite"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+description = "A Rust 2024 suite crate that unifies and orchestrates multiple OS-building crates."
+repository = "https://github.com/alisio85/os-foundry-suite"
+documentation = "https://docs.rs/os_foundry_suite"
+readme = "README.md"
+keywords = ["os", "kernel", "bare-metal", "uefi", "tooling"]
+categories = ["development-tools"]
+
+[features]
+default = []
+
+# Re-export / integration features
+kernel-foundry = ["dep:os_kernel_foundry"]
+dev-toolkit = ["dep:os_dev_toolkit"]
+metal-primitives = ["dep:os_metal_primitives"]
+service-fabric = ["dep:os_service_fabric"]
+linker-sculptor = ["dep:os_linker_sculptor"]
+slab-vault = ["dep:os_slab_vault"]
+abi-sentinel = ["dep:os_abi_sentinel"]
+state-maestro = ["dep:os_state_maestro"]
+observatory = ["dep:os_observatory"]
+image-lens = ["dep:os_image_lens"]
+
+# Suite extras
+serde = ["dep:serde"]
+
+[dependencies]
+# Your crates (optional; enabled via feature flags above)
+os_kernel_foundry = { version = "0.1.5", optional = true }
+os_dev_toolkit = { version = "0.1.2", optional = true }
+os_metal_primitives = { version = "0.1.0", optional = true }
+os_service_fabric = { version = "0.1.0", optional = true }
+os_linker_sculptor = { version = "0.1.0", optional = true }
+os_slab_vault = { version = "0.1.1", optional = true }
+os_abi_sentinel = { version = "0.1.0", optional = true }
+os_state_maestro = { version = "0.1.0", optional = true }
+os_observatory = { version = "0.1.0", optional = true }
+os_image_lens = { version = "0.1.0", optional = true }
+
+serde = { version = "1", features = ["derive"], optional = true }
+
+[dev-dependencies]
+serde_json = "1"

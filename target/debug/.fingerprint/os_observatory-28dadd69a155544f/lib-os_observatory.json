@@ -1,0 +1,1 @@
+{"rustc":7895727629726570510,"features":"[]","declared_features":"[\"alloc\", \"std\"]","target":13789681480152886508,"profile":2241668132362809309,"path":6503635699585088041,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug\\.fingerprint\\os_observatory-28dadd69a155544f\\dep-lib-os_observatory","checksum":false}}],"rustflags":[],"config":2069994364910194474,"compile_kind":0}

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["artifacts","builder","config","crates","error","execution","image","integration","prelude","profiles","services","targets"]};
