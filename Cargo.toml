@@ -9,6 +9,12 @@ documentation = "https://docs.rs/os_foundry_suite"
 readme = "README.md"
 keywords = ["os", "kernel", "bare-metal", "uefi", "tooling"]
 categories = ["development-tools"]
+exclude = [
+    "/target",
+    "/.github",
+    "/.git",
+    "**/*.log",
+]
 
 [features]
 default = []
