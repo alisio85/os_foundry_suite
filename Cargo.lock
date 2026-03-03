@@ -28,7 +28,7 @@ checksum = "1d6d24ca0b6a0b881c47c2f92c27cb5640926057fe1a0eb56c8ca28460f46bf5"
 
 [[package]]
 name = "os_foundry_suite"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "os_abi_sentinel",
  "os_dev_toolkit",
