@@ -28,7 +28,7 @@ checksum = "1d6d24ca0b6a0b881c47c2f92c27cb5640926057fe1a0eb56c8ca28460f46bf5"
 
 [[package]]
 name = "os_foundry_suite"
-version = "0.1.1"
+version = "0.1.2"
 dependencies = [
  "os_abi_sentinel",
  "os_dev_toolkit",
@@ -70,9 +70,9 @@ checksum = "5dae330d459621121edefa8b4fa8d61fbd8b42d2d4ad72f15e28194db675ecb1"
 
 [[package]]
 name = "os_observatory"
-version = "0.1.0"
+version = "0.1.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "ab89437873500cc89828030692f6ce9e2f1d4c345e9ba3f256691239ac060e6e"
+checksum = "2f3fbf80edff265ba1c0b425b83d880b130196ab88a8642e650aa1b963266fcf"
 
 [[package]]
 name = "os_service_fabric"
@@ -88,9 +88,9 @@ checksum = "8a73971e3db0844b2a19afd2dc618b161cde1a6fc78975f0d8d18180297e78fe"
 
 [[package]]
 name = "os_state_maestro"
-version = "0.1.0"
+version = "0.1.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "dc8162053a6310d839c1376cccbb0a3549758f82a6882e567e1a8328380395ce"
+checksum = "70a930270e8fbe3e80cb6e3807442dc6e2aab63b80c7a09145b388d23288b470"
 
 [[package]]
 name = "proc-macro2"
